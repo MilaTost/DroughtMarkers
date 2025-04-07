@@ -1,6 +1,5 @@
 # DroughtMarkers
 This repository contains scripts to analyze natural forestry populations. The European beech populations are located at five locations in the South-Eastern Romanian Carpathians along a steep environmental gradient associated with precipitation and temperature. A Genome-wide association studies (GWAS) was conducted based on this data set to identify SNP markers associated with different drought stress traits. The polygenic test [Ghat](https://academic.oup.com/genetics/article/209/1/321/5931021?login=true) was also tested in the same population. Additionally, the same data set was tested in an environmental association analysis (EAA) to test for associations with 53 environmental variables, which may have posed as selective pressure. These environmental variables comprised frost frequency change, temperature and precipitation.
-<img width="600" alt="Figure_2" src="https://github.com/MilaTost/ExpEvo_with_replicated_selection/assets/63467079/596ca155-6c47-4b77-9e65-607d1825f9c2"> <br />
 <img width="600" alt= "Schematic_overview" src="https://github.com/MilaTost/DroughtMarkers/14126e6d-8c2c-45d2-a675-1aad4fecf9fb"> <br />
 
 ## Genome-wide association studies (GWAS)
