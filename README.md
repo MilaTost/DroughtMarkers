@@ -1,7 +1,8 @@
 # DroughtMarkers
 This repository contains scripts to analyze natural forestry populations. The European beech populations are located at five locations in the South-Eastern Romanian Carpathians along a steep environmental gradient associated with precipitation and temperature. A Genome-wide association studies (GWAS) was conducted based on this data set to identify SNP markers associated with different drought stress traits. The polygenic test [Ghat](https://academic.oup.com/genetics/article/209/1/321/5931021?login=true) was also tested in the same population. Additionally, the same data set was tested in an environmental association analysis (EAA) to test for associations with 53 environmental variables, which may have posed as selective pressure. These environmental variables comprised frost frequency change, temperature and precipitation.
-<img width="600" alt= "Schematic_overview" src="C:\Users\mtost\Documents\Beech_project\Romanian_Beech_data\Write_up\Plots\Schematic_overview_pp_no_Ghat.png"> <br />
-DroughtMarkers
+<img width="600" alt= "Schematic_overview" src="![Schematic_overview_pp_no_Ghat](https://github.com/user-attachments/assets/7f497cc9-0c3b-421e-a347-e5ef9dc3d763)
+"> <br />
+
 ## Genome-wide association studies (GWAS)
 Genome-wide association studies (GWAS) aim to identify loci associated with drought stress, tree physiology, growth or wood quality traits, which could be prioritized in breeding programs. Genotypic and phenotypic data were collected from approximately 100 adult beech trees per stand in five locations in the South-Eastern Romanian Carpathians along an altitudinal gradient associated with precipitation and temperature. We performed GWAS using PLINK to identify SNP markers associated with traits related to drought stress. Additionally, permutation testing was conducted to determine significance thresholds. This procedure is described in the script `GWAS_with_PLINK.R` script. <br />
 The plotting of the GWAS results (Manhattan plots) is described in the script `Plot_GWAS_PLINK_results.R`. <br /> <br />
