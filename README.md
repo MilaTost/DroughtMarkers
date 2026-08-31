@@ -11,6 +11,8 @@ Environmental association analysis (EAA) focuses on the identification of enviro
 
 To test for inflation of false positive results, the environemental data was randomized and tested for remaining associations. This procedure is available in the `Randomization_of_EAA_analysis.R` script. <br />
 
+The publication of this research study can be found as [Tost et al. 2026](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70129)
+
 The creation of MAF plots is included in the scipt `Create_MAF_plots.R`.
 <br /> <br />
 
